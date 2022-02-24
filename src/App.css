@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  background-color: #e5e4e2;
+  height: 35rem;
+  
+    
+}
+.App1 {
+  text-align: center;
+  background-color: #e5e4e2;
+  height: 35rem;
+  
+    
+}
+
+h1{
+  font-family: monospace;
+  font-weight: 900;
+  font-size: 3rem;
+  
+}
+.select{
+  width: 50%;
+}
+.ant-input-search > .ant-input-group > .ant-input-group-addon:last-child .ant-input-search-button{
+background-color: #00FF00;
+border-color:#00FF00 ;
+}
+h3{
+  margin-left: 29rem;
+  width: 27rem;
+  
+  background-color: #800080;
+  
+}
+#num0{
+  color: white;
+  text-align: -webkit-auto;
+}
+#num1{
+  color: white;
+  margin-top: 2rem;
+}
+#row{
+  justify-content: space-between;
+
+}
+.ant-row{
+  justify-content: center;
+  
+}
+#num2{
+  color: white;
+  margin-top: 2rem;
+}
+#you{
+  text-align: -webkit-auto;
+  margin-top: -1rem;
+color: white;
+}
+
+
+#col{
+  height: 20rem;
+  width: 19rem;
+  margin-left: 1rem;
+}
+#col1{
+  height: 22rem;
+}
+#col2{
+  height: 20rem;
+}
+
+element.style {
+}
+.ant-card-body{
+  height: 25rem;
+  margin-top: 1rem;
+}
